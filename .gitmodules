@@ -1,0 +1,6 @@
+[submodule "redis-plus-plus"]
+	path = redis-plus-plus
+	url = https://github.com/Astraclicker/redis-plus-plus.git
+[submodule "hiredis"]
+	path = hiredis
+	url = https://github.com/Astraclicker/hiredis.git

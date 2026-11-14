@@ -17,7 +17,7 @@
 
   
 
-  + 配置CMake
++ 配置CMake
 
   ```cmake
   add_subdirectory(cppRedisLib)
